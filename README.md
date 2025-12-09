@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fatemahabeeb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Fatema Abbakar Suliman Habeeb 
+- 👀 I’m interested in PHP Language
+- 🌱 I’m currently learning PHP and python
+- 💞️ I’m looking to collaborate on programming
+- 📫 How to reach me in my email
 
 <!---
 fatemahabeeb/fatemahabeeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
